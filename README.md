@@ -1,6 +1,6 @@
 # ♟️ Chess Game Website ♞
 
-A simple chess game website where users can play chess against a friend or an AI opponent. The game follows standard chess rules and provides an interactive user interface.
+A simple chess game website where users can play chess against a friend. The game follows standard chess rules and provides an interactive user interface.
 
 ## ✨ Features ✨
 
